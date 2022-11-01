@@ -1,0 +1,17 @@
+{
+  "name": "laostars888",
+  "theme": "syntax",
+  "version": "1.0.6",
+  "description": "หวยลาวสตาร์ สมัคร ซื้อหวยลาว สตาร์ มิติใหม่แห่งการ แทงหวยลาว บาทละ 100",
+  "keywords": [
+    "หวยลาวสตาร์",
+    "ซื้อหวยลาวสตาร์",
+    "แทงหวยลาว",
+    "ซื้อหวยลาว"
+  ],
+  "repository": "https://github.com/earthza550/laostars666",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
